@@ -6,6 +6,7 @@ on:
     branches:
       - main
 
+
   # Manual trigger for the workflow
   workflow_dispatch:
 
